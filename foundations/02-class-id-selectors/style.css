@@ -1,0 +1,20 @@
+.funnyguy {
+    background-color: #FF000080;
+    font-size: 24px;
+}
+
+#firstID {
+    color: blue;
+    font-size: 80px;
+}
+
+#secondID {
+    font-weight: bold;
+    font-size: 40px;
+    background-color: green;
+}
+
+.funnyguy.weirdguy {
+    background-color: #FF000080;
+    font-size: 40px;
+}
